@@ -40,6 +40,7 @@ redmi_ax6000_initial_setup()
 
 tenbay_mmc_do_upgrade_dual_boot()
 {
+	:
 }
 
 tenbay_dualboot_fixup()
